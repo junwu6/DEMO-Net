@@ -1,5 +1,5 @@
 # DEMO-Net
-An implementation for "DEMO-Net: Degree-specific Graph Neural Networks for Node and Graph Classification" (KDD'19).
+An implementation for "DEMO-Net: Degree-specific Graph Neural Networks for Node and Graph Classification" (KDD'19). [[Paper]](https://arxiv.org/pdf/1906.02319.pdf)
 
 ### Reference
 If you find that **DEMO-Net** is helpful for your research, please consider to cite our paper:
