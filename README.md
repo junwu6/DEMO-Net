@@ -7,7 +7,7 @@ If you find that **DEMO-Net** is helpful for your research, please consider to c
 	  @inproceedings{demonet_kdd19,
  		author = {Wu, Jun and He, Jingrui and Xu, Jiejun},
  		title = {DEMO-Net: Degree-specific Graph Neural Networks for Node and Graph Classification},
- 		booktitle = {Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery \& Data Mining (KDD)},
+ 		booktitle = {Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining},
  		pages = {406--415},
  		year = {2019}
 	}
